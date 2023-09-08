@@ -30,7 +30,7 @@ if decisionOne == "right":
         if(decisionThree == "yellow"):
             print("Did you think yellow was for gold? Although you have found some cuddly cats. You approach them, and they claw your eyes out. Game Over.")  
         elif(decisionThree == "blue"):
-            print("")
+            print("You found the treasure! You Win!")
         elif(decisionThree == "red"):
             print("Really the red one? Don't you know thats the color of blood? LOOK OUT BEHIND YOU! Game Over.")
         else:
